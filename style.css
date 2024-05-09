@@ -44,7 +44,6 @@
 
 
 body {
-    font-family: cursive;
     margin: 0;
     padding: 0;
     background-color: #801842;
@@ -100,7 +99,6 @@ button {
     cursor: pointer;
     transition: background-color 0.3s;
     border-radius: 2cm 20px;
-    font-family: cursive;
 }
 
 footer {
